@@ -1,0 +1,93 @@
+:root {
+  margin: 0;
+  padding: 0;
+  background-color: #ddd;
+  font-family: Arial, Helvetica, sans-serif,monospace;
+}
+
+body {
+  width: 100vw;
+  text-align: center;
+}
+
+p {
+  font-weight:600;
+}
+
+#search-container {
+  width: 20vw;
+  margin: 0 auto;
+}
+
+#search-container input { 
+  padding: 15px;
+  border-radius: 3px;
+  border: none;
+  background-color: rgba(41, 38, 38, 0.842);
+  outline: none;
+  color: inherit;
+}
+
+#contact-container {
+  width: 32vw;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+.contact-a {
+  width: 30vw;
+  background-color: #38ce59c0;
+  padding: 10px;
+  padding-left: 20px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.contact-b {
+  width: 30vw;
+  background-color: #38cec0;
+  padding: 10px;
+  padding-left: 20px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.contact-c {
+  width: 30vw;
+  background-color: #ce3838cc;
+  padding: 10px;
+  padding-left: 20px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.contact-d {
+  width: 30vw;
+  background-color: #cebf38d5;
+  padding: 10px;
+  padding-left: 20px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.contact-e {
+  width: 30vw;
+  background-color: #6838cecb;
+  padding: 10px;
+  padding-left: 20px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.contact-f {
+  width: 30vw;
+  background-color: #389fcecb;
+  padding: 10px;
+  padding-left: 20px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+
+/* #heading {
+  
+} */
+
+#message {
+  display: none;
+}
